@@ -15,7 +15,7 @@
     "@fortawesome/react-fontawesome": "^0.1.4",
     "axios": "^0.19.2",
     "express": "^4.16.4",
-    "highlight.js": "^9.15.6",
+    "highlight.js": "^10.1.2",
     "image-to-base64": "^2.0.1",
     "morgan": "^1.9.1",
     "react": "^16.8.6",
